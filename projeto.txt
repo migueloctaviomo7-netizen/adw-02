@@ -1,0 +1,75 @@
+====================================================
+RELATÓRIO FINAL — AGÊNCIA DIGITAL (TEMA 02)
+Estratégia de Conteúdo Avançada
+Data: 25/11/2026, 16:19:06
+Missões concluídas: 0 de 12
+====================================================
+
+🏪 NEGÓCIO ESCOLHIDO
+Nome: Churros Play 
+Tipo: Loja virtual
+Descrição: loja virtual de games 
+
+----------------------------------------------------
+🎯 MISSÕES PRÁTICAS
+----------------------------------------------------
+[ ] 🎭 Persona
+    → gabriel, 17 anos, gostar de jogar jogos virtuais, possui pouco dinheiro, gosta de midia fisica
+
+[ ] 🎯 Objetivo SMART
+    → no proximo mes a meta e vender 3 jogos do nosso catalogo
+
+[ ] 🗺️ Jornada do Consumidor
+    → pesquisa>jogos de midia fisica, compara as avaliaçao, compra, indica a loja para proximos
+
+[ ] 💡 Tópicos de Conteúdo
+    → jogos fisico, midias digitais, preço acessivo, entrega rapida, otima qualidade
+
+[ ] ✍️ Conteúdo (publicação)
+    → jogos de todas as plataformas 
+
+[ ] 📢 Distribuição
+    → pagina de intagram personalizada  , gmail
+
+[ ] 🎯 Personalização
+    → (não preenchido)
+
+[ ] 🔍 SEO
+    → venda confiavel de games (palavra chave) , jogos de midia fisica e digital (descriçao) , churros games (titulo )
+
+[ ] ❤️ Engajamento
+    → qual e a pedida de hoje
+
+[ ] 🔄 Iteração
+    → Métricas: CTR do título no Google, tempo na página, taxa de conversão do formulário. Teste A/B: duas versões de CTA ('Solicite seu orçamento' × 'Peça uma avaliação grátis'). Ciclo: revisar a cada 2 semanas. Ajuste: se CTR baixo, reescrever título; se conversão baixa, simplificar formulário.
+
+[ ] 🚀 Tendências
+    → no stories da nossa pagina do insta sempre mostraa as melhores promoçoes da semana 
+
+[ ] 🕵️ Concorrência
+    → em outra lojas n possuem sites e não tem um surporte como o nosso 
+
+----------------------------------------------------
+📄 PÁGINA DE CONTEÚDO (mini-editor)
+----------------------------------------------------
+Título SEO: loja virtual de games| Churros Play
+URL amigável: https://seusite.com.br/venda de jogos
+Meta description: venda de jogos com o melhor preço da regiao 
+Corpo do conteúdo:
+oque deseja  comprar 
+possuimos todas as plataformas disponiveis 
+
+1. plastation 4/5
+
+2. nitendo swits 
+
+3. xbox series 
+
+4. pc 
+
+
+finalizar a compra 
+
+====================================================
+FIM DO RELATÓRIO
+====================================================
